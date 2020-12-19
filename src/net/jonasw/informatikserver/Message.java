@@ -1,5 +1,12 @@
 package net.jonasw.informatikserver;
 
+/**
+ * So ähnlich wie auf der Client seite nur das die toString methode so aussieht,
+ * das ichs direkt an den Client schicken kann und er auch versteht was er damit
+ * anfangen soll
+ * 
+ * Die Zeit wird zu der Jetzigen Zeit gesetzt
+ */
 public class Message {
     String username;
     String msg;
